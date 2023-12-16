@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    
+}
+p {
+    font-size: 35px;
+    margin-top:4rem ;
+    margin-bottom: 3rem;
+}
+.caption{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+width: 100%;
+
+}
+.caption .btn{
+    width: 250px;
+    height: 80px;
+    background-color: royalblue;
+    color: white;
+
+}
+
+.caption .btn:hover{
+    background-color: green;
+}
+
+#quotes{
+
+    margin-bottom: 0.5rem;
+}
